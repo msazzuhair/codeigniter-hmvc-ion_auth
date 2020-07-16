@@ -50,6 +50,9 @@ Example:
 
 * For migrating database structure, go to ```http://localhost/my-project/migration/migrate```. The database will be updated automatically
 
+#### Ion Auth Default Login
+Username: admin@admin.com password: password 
+
 ## Built Using
 
 * [Codeigniter 3](https://github.com/bcit-ci/codeigniter)
